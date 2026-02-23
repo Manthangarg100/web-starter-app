@@ -152,3 +152,6 @@ AI Runtime: RunAnywhere Web SDK
 Backends: LlamaCPP, ONNX
 
 Deployment: Local Web App (on-device inference)
+
+NOTE - FOR ACTUAL WORKING USER  HAVE TO RUN COMMAND npm install and npm run dev 
+Vercel is only for Showing structure and UI Components 
